@@ -1,4 +1,6 @@
 # encoding: utf-8
+include 'mongoid'
+
 module Mongoid
   module Paranoia
     module Document
