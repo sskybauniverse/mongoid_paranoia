@@ -4,7 +4,7 @@ require 'mongoid/paranoia/version'
 
 Gem::Specification.new do |gem|
   gem.name          = 'mongoid_paranoia'
-  gem.version       = 0.3.1
+  gem.version       = '0.3.1'
   gem.authors       = ['Durran Jordan', 'Josef Šimánek']
   gem.email         = ['durran@gmail.com', 'retro@ballgag.cz']
   gem.description   = %q{There may be times when you don't want documents to actually get deleted from the database, but "flagged" as deleted. Mongoid provides a Paranoia module to give you just that.}
