@@ -1,5 +1,5 @@
 # encoding: utf-8
-include 'mongoid'
+require 'mongoid'
 
 module Mongoid
   module Paranoia
